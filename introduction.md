@@ -5,7 +5,7 @@
 
 [Link](https://www.chess.com/home)
 
-'My Friends:'
+`My Friends:`
 *Aiden
 *Alec
 *Jack
@@ -15,11 +15,11 @@ Favorite Foods:
 2. Coconuts
 3. Rice
 
-'''
+```
 I
 love 
 mangoes
-'''
+```
 
 ___
 
