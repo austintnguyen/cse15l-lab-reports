@@ -1,4 +1,4 @@
-![Image](https://assets.stickpng.com/images/58e38347204d556bbd97b147.png)
+![Image](https://i.natgeofe.com/k/75ac774d-e6c7-44fa-b787-d0e20742f797/giant-panda-eating_3x2.jpg)
 # **Austin Nguyen**
 ## *My name is Austin Nguyen and I am a third-year student at UCSD studying Computer Science.*
 > Somes of my favorite hobbies are playing video games and watching shows.
