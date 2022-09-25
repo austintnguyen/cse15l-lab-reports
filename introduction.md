@@ -6,9 +6,9 @@
 [Link](https://www.chess.com/home)
 
 `My Friends:`
-*Aiden
-*Alec
-*Jack
+* Aiden
+* Alec
+* Jack
 
 Favorite Foods:
 1. Pasta
