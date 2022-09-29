@@ -75,7 +75,7 @@ mkdir .ssh
 ```
 After typing this command, logout of the server. Once you're back on the client, type this command.
 ```
-$ scp /Users/<Your Name>/.ssh/id_rsa.pub atn038@ieng6.ucsd.edu:~/.ssh/authorized_keys
+$ scp /Users/<Your Name>/.ssh/id_rsa.pub <Username>@ieng6.ucsd.edu:~/.ssh/authorized_keys
 ```
 After completing these steps, you should be able to use the commands ssh and scp without needing to enter your password.
 
