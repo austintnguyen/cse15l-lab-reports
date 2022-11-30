@@ -8,14 +8,17 @@
 ```
 /File[] <Enter>
 ```
+Find the first instance of "File[]" in the file.
 ![Image](vim1.png)
 ```
 i <Enter> <Escape> k
 ```
+Enter insert mode and create an extra line. Exit out of insert mode. Then moves cursor up one line.
 ![Image](vim2.png)
 ```
 i System.out.println(f.toString() + “. It is a directory.”); <Escape> :wq <Enter>
 ```
+Enter insert mode. Add a print statement that gets the name of the directory and states that it is a directory. Then exit out of insert mode and save the changes.
 ![Image](vim3.png)
 
 ## Part 2
